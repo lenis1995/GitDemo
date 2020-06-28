@@ -25,7 +25,8 @@ public class ArraysDemo {
 		
 		Integer num=new Integer(5);
 		String cd="f";
-		
+		System.out.println("git checking 1");
+		System.out.println("git checking 2");
 
 		int b[] = { 1, 4, 3, 5, 7, 8 };
 
