@@ -17,6 +17,8 @@ public class arrayListExample {
 		a.add("lens");
 		a.add("java");
 		a.add("java");
+		a.add("Ejemplo git 1");
+		a.add("Ejemplo git 2");
 		System.out.println(a);
 		a.add(0, "student");
 		System.out.println(a);
