@@ -23,6 +23,7 @@ public class arrayListExample {
 		a.add("Ejemplo git 4");
 		a.add("Ejemplo git 5");
 		a.add("Ejemplo git 6");
+		a.add("Git final check");
 		System.out.println(a);
 		a.add(0, "student");
 		System.out.println(a);

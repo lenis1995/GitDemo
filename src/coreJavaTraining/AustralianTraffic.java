@@ -13,7 +13,7 @@ public class AustralianTraffic implements CentralTraffic, ContinentalTraffic {
 		ContinentalTraffic ct = new AustralianTraffic();
 		at.walkonsymbol();
 		ct.Trainsymbol();
-
+		System.out.println("final git checking");
 	}
 
 	@Override
