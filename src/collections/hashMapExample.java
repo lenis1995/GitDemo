@@ -10,6 +10,7 @@ public class hashMapExample {
 
 	public static void main(String[] args) { // TODO Auto-generated method stub
 
+		System.out.println("I'm including a new git example");
 		HashMap<Integer, String> hm = new HashMap<Integer, String>();
 		hm.put(0, "hello");
 		hm.put(1, "Gudbye");
