@@ -1,10 +1,12 @@
 git config --global user.name "xxx"
 git config --global user.email "xxx"
-cd <FileName> (Local repository file)	
+cd <FileName path> (Local repository file)	
 git init
 git add * or git add <filename>
 git status (List the files you've changed and those you still need to add or commit).
 git commit -m "Opional message"
-git remote add origin "remote repository url"
+git remote add origin <remote repository url>
 git push -u origin master
-git clone "remote repository url" (The first time then you use pull)
+git clone <remote repository url> (The first time then you use pull)
+git push origin master
+git pull origin master
