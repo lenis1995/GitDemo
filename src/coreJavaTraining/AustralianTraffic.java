@@ -15,6 +15,8 @@ public class AustralianTraffic implements CentralTraffic, ContinentalTraffic {
 		ct.Trainsymbol();
 		System.out.println("final git checking");
 		System.out.println("develop branch test");
+		System.out.println("develop branch test 2");
+		System.out.println("develop branch test 3");
 	}
 
 	@Override
