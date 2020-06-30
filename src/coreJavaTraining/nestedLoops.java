@@ -5,6 +5,7 @@ public class nestedLoops {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		// nested loops works -
+		System.out.println("a new branch test");
 		int k = 1;
 		for (int i = 0; i < 4; i++) // (outer for loop) this block will loop for 4 times
 		{
